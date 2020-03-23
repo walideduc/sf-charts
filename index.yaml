@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  app1:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2020-03-23T16:49:00.934550004Z
+    description: A Helm chart for Kubernetes
+    digest: 62310fb0106cff4bf8a19ab77dbc17bb91e822c94e6e30b66ad9d37c9a7612a0
+    name: app1
+    urls:
+    - https://walideduc.github.io/sf-charts/app1-0.1.0.tgz
+    version: 0.1.0
+generated: 2020-03-23T16:49:00.917225912Z
